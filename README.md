@@ -12,7 +12,7 @@ The project will follow the same approach as used in all ML project. We'll go th
 ## Run (locally)
 1. Import this repository using git command
 ```
-git clone https://github.com/deepeshdm/Phishing-Attack-Domain-Detection.git
+git clone https://github.com/Puskar-Roy/TEJAS-Technology-Enabled-Joining-of-Authentic-Sites-.git
 ```
 2. Install all the required dependencies inside a virtual environment
 ```
