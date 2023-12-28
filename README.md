@@ -1,4 +1,4 @@
-## Phishing Attack Domain Detection with Machine Learning
+## TEJAS (Technology-Enabled Joining of Authentic Sites) 
 
 ## Project Workflow
 The project will follow the same approach as used in all ML project. We'll go through different stages of data collection,feature extraction,training and finally deployment of trained model.
@@ -9,7 +9,7 @@ The project will follow the same approach as used in all ML project. We'll go th
 - Deployment
 
 
-## 👨‍💻 To run (locally)
+## Run (locally)
 1. Import this repository using git command
 ```
 git clone https://github.com/deepeshdm/Phishing-Attack-Domain-Detection.git
